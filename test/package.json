@@ -1,0 +1,33 @@
+{
+	"name": "cmd-testing",
+	"version": "0.0.1",
+	"private": true,
+	"description": "Demo automation test for CMD",
+	"scripts": {
+		"test": "echo 'Hello world'"
+	},
+	"dependencies": {
+		"url": "^0.11.0",
+		"fs-extra": "^3.0.1",
+		"jasmine": "^2.6.0",
+		"jasmine-reporters": "^2.2.1",
+		"sync-exec": "^0.6.2",
+		"winston": "^2.3.1"
+	},
+	"keywords": [
+		"cmd",
+		"automation",
+		"test",
+		"profiq",
+		"sencha"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MiroslavMeca-Profiq/cmdTesting.git"
+	},
+	"author": "profiq",
+	"bugs": {
+		"url": "https://github.com/MiroslavMeca-Profiq/cmdTesting/issues"
+	},
+	"homepage": "https://github.com/MiroslavMeca-Profiq/cmdTesting#readme"
+}
